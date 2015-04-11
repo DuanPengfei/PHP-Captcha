@@ -9,7 +9,7 @@ Show the captcha
 Checkout the user's input captcha
 
 ```
-if (Captcha::check(用户提交的数据)) {
+if (Captcha::check(the user's input data)) {
 	code...
 } else {
 	code...
