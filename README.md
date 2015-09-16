@@ -1,4 +1,4 @@
-# PHPCaptcha
+# PHP-Captcha
 ##Usage
 Show the captcha
 
